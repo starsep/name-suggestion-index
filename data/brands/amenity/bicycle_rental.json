@@ -1227,6 +1227,29 @@
       }
     },
     {
+      "displayName": "Rawicki Powiatowy Rower",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Rawicki Powiatowy Rower",
+        "brand:wikidata": "Q119141439",
+        "operator": "Roovee",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Gnieźnieński Rower Miejski",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Gnieźnieński Rower Miejski",
+        "brand:wikidata": "Q119141530",
+        "operator": "Roovee",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+
+    {
       "displayName": "Częstochowski Rower Miejski",
       "id": "czestochowskirowermiejski-4d145c",
       "locationSet": {"include": ["pl"]},
